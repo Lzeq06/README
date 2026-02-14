@@ -30,10 +30,10 @@
   <a href="https://linkedin.com/in/luarazequini" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" />
   </a>
-  <a href="mailto:luara.zequini@gmail.com" target="_blank">
+  <a href="mailto:luarazequini5@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" />
   </a>
   <a href="https://luarazequini.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" />
+    <img src="https://github.com/Lzeq06/README/blob/main/portifolio.svg" width="40" />
   </a>
 </p>
