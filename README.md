@@ -27,10 +27,6 @@
   <a href="mailto:luarazequini5@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="35" />
   </a>
-  <a href="https://luarazequini.dev" target="_blank">
-    <img src="https://github.com/Lzeq06/README/blob/main/portifolioweb.svg" width="35" />
-  </a>
-</p>
 
 </div>
 
