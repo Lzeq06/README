@@ -7,10 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Desenvolvedora+de+Software;" />
 
   <p>
-    Estudante de Desenvolvimento de Software focada em construir <b>sistemas completos e bem estruturados</b>.<br>
-    Meu trabalho combina <b>lógica de back-end, interfaces front-end e análise de dados</b>, sempre buscando arquitetura clara e código de fácil manutenção.<br><br>
-    Gosto de explorar como diferentes tecnologias resolvem o mesmo problema — desenvolvendo projetos com <b>Java, Python e JavaScript</b> para aprofundar meu entendimento dos conceitos de programação.<br><br>
-    Atualmente focada em <b>desenvolvimento full-stack, modelagem de banco de dados e visualização de dados</b>, utilizando ferramentas como Power BI para transformar dados em insights.
+   Estudante de Ciência e Tecnologia focada em construir <b>sistemas completos, eficientes e bem estruturados</b>.<br><br>
+   Meu trabalho conecta <b>lógica de back-end, interfaces front-end e análise de dados</b>, sempre visando arquitetura clara, boas práticas e código de fácil manutenção.<br><br>
+   Exploro como diferentes stacks solucionam o mesmo problema técnico — desenvolvendo projetos com <b>Java, Python e JavaScript</b> para consolidar conceitos fundamentais de <b>programação, algoritmos e automação</b>.
   </p>
 
 </div>
